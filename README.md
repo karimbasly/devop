@@ -13,4 +13,4 @@
    1. Marcar **Create Project from external model**, elegir **Maven**.
    1. **Next** … **Finish**.
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=karimbasly_devop&metric=alert_status)](https://sonarcloud.io/dashboard?id=karimbasly_devop)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=karimbasly_devop&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=karimbasly_devop)
