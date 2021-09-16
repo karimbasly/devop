@@ -14,4 +14,4 @@
    1. **Next** … **Finish**.
 
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=karimbasly_devop&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=karimbasly_devop)
- curl -X GET "https://devop-upm.herokuapp.com/system/version-badge" -H  "accept: image/svg+xml" https://devop-upm.herokuapp.com/system/version-badge
+
