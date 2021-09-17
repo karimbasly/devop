@@ -12,7 +12,9 @@
    1. **Import Project**, y seleccionar la carpeta del proyecto.
    1. Marcar **Create Project from external model**, elegir **Maven**.
    1. **Next** … **Finish**.
-
+   
+[![DevOps](https://github.com/karimbasly/project_devop/actions/workflows/test.yml/badge.svg)](https://github.com/karimbasly/project_devop/actions/workflows/test.yml)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=karimbasly_devop&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=karimbasly_devop)
 [![Heroku broken](https://iwvg-devops.herokuapp.com/system/version-badge)](https://iwvg-devops.herokuapp.com/swagger-ui.html)
+
 
